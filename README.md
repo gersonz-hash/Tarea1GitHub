@@ -12,5 +12,4 @@ la herramienrta de Git y GitHub con el fin de que vean que ya sabeos usar estos 
 Intro to Copilot: Este me llamo mucho la atención porque mientras estamos escribiendo código lo que hace esta herramienta es que nos sugiere código mientras estamos 
 escribiendo y nos da ideas cuando no sabemos como empezar el proyecto que estemos haciendo, es como un asistente de inteligencia artificial. 
 
-En este caso aún no tengo activo mi GitHub Pro porque lo solicite y no me lo han activado pero investigue sobre que beneficios tiene y que programas nos permite 
-utilizar de forma gratuita. 
+
